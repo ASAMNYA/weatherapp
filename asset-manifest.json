@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/asamnya.github.io/weatherapp/static/css/main.b47b32b3.css",
+    "main.js": "/asamnya.github.io/weatherapp/static/js/main.44cb5392.js",
+    "static/js/787.5f94ae87.chunk.js": "/asamnya.github.io/weatherapp/static/js/787.5f94ae87.chunk.js",
+    "static/media/sunny.jpg": "/asamnya.github.io/weatherapp/static/media/sunny.3ea7bd58c82bdbcf43e1.jpg",
+    "static/media/cold.jpg": "/asamnya.github.io/weatherapp/static/media/cold.88fcd748f244221995ca.jpg",
+    "index.html": "/asamnya.github.io/weatherapp/index.html",
+    "main.b47b32b3.css.map": "/asamnya.github.io/weatherapp/static/css/main.b47b32b3.css.map",
+    "main.44cb5392.js.map": "/asamnya.github.io/weatherapp/static/js/main.44cb5392.js.map",
+    "787.5f94ae87.chunk.js.map": "/asamnya.github.io/weatherapp/static/js/787.5f94ae87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47b32b3.css",
+    "static/js/main.44cb5392.js"
+  ]
+}
