@@ -1,7 +1,7 @@
 
 
 # Project URL
-https://asamnya.github.io/asamnya-weather
+https://asamnya.github.io/weatherapp
 
 ## Description
 This project is built with Reactjs , HTML and CSS. This project uses api that is 
